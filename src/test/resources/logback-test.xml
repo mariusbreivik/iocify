@@ -1,0 +1,3 @@
+<configuration>
+    <logger name="org.burningwave" level="OFF"/>
+</configuration>

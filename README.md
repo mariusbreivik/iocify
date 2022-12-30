@@ -1,1 +1,1 @@
-# iocify
+# iocify - a simple ioc framework
